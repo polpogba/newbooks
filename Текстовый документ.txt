@@ -1,1 +1,1 @@
-new document1
+new document2
